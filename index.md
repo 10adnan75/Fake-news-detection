@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+# Fake-news-detection
 
-You can use the [editor on GitHub](https://github.com/10adnan75/Fake-news-detection/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+**About this project**
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The project is based on Machine learning implemented using Jupyter notebook. 
 
-### Markdown
+Library used: [scikit-learn](https://scikit-learn.org/stable/)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+---
 
-```markdown
-Syntax highlighted code block
+## Screenshots
 
-# Header 1
-## Header 2
-### Header 3
+![image](https://user-images.githubusercontent.com/52044177/124660377-bfa23600-dec3-11eb-9823-3807cdc08521.png)
+![image](https://user-images.githubusercontent.com/52044177/124660890-71416700-dec4-11eb-9515-4db10045f069.png)
 
-- Bulleted
-- List
+---
 
-1. Numbered
-2. List
+## Author
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/10adnan75/Fake-news-detection/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+© Adnan M Shaikh <10adnan75@gmail.com>
