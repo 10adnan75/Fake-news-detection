@@ -1,4 +1,4 @@
-# fake-news-detection 
+# Fake-news-detection 
 
 **About this project**
 
@@ -12,9 +12,20 @@ Libraries used: | [pandas](https://pandas.pydata.org/) | [scikit-learn](https://
 
 ---
 
+## Installing dependencies
+
+```markdown
+pip install pandas scikit-learn matplotlib
+```
+
+---
+
 ## Notebook links
 
-
+```markdown
+[Book1](https://github.com/10adnan75/Fake-news-detection/blob/main/comparing_fake_news_classifiers.ipynb)
+[Book2](https://github.com/10adnan75/Fake-news-detection/blob/main/attempting_to_detect_fake_news.ipynb)
+```
 
 ---
 
