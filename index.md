@@ -1,10 +1,16 @@
-# Fake-news-detection
+# Welcome to fake-news-detection repository
 
 **About this project**
 
-The project is based on Machine learning implemented using Jupyter notebook. 
+The project is based on Machine learning algorithm implemented in Jupyter notebook 
 
-Library used: [scikit-learn](https://scikit-learn.org/stable/)
+Language: [python3.X](https://www.python.org/)
+
+Libraries used: [pandas](https://pandas.pydata.org/) | [scikit-learn](https://scikit-learn.org/stable/) | [matplotlib](https://matplotlib.org/)
+
+---
+
+
 
 ---
 
