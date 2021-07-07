@@ -1,4 +1,4 @@
-## About this project
+**About this project**
 
 ```markdown
 The project is based on Machine learning algorithm implemented in Jupyter Notebook 
@@ -15,6 +15,12 @@ Libraries used | [pandas](https://pandas.pydata.org/) | [scikit-learn](https://s
 ```markdown
 pip install pandas scikit-learn matplotlib
 ```
+
+---
+
+## Dataset
+
+[Download here](https://github.com/10adnan75/Fake-news-detection/blob/main/data/fake_or_real_news.csv?raw=true)
 
 ---
 
