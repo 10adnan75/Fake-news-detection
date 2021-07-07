@@ -20,7 +20,7 @@ pip install pandas scikit-learn matplotlib
 
 ## Dataset
 
-[Download here](https://github.com/10adnan75/Fake-news-detection/blob/main/data/fake_or_real_news.csv?raw=true)
+[Click here](https://github.com/10adnan75/Fake-news-detection/raw/main/data/fake_or_real_news.csv)
 
 ---
 
