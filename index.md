@@ -1,12 +1,12 @@
-**About this project**
+## About this project
 
 ```markdown
-The project is based on Machine learning algorithm implemented in Jupyter notebook 
+The project is based on Machine learning algorithm implemented in Jupyter Notebook 
 ```
 
-Technology stack: | [python3.X](https://www.python.org/) | [jupyter](https://jupyter.org/) |
+Technology stack | [python3](https://www.python.org/) | [jupyter](https://jupyter.org/) |
 
-Libraries used: | [pandas](https://pandas.pydata.org/) | [scikit-learn](https://scikit-learn.org/stable/) | [matplotlib](https://matplotlib.org/) |
+Libraries used | [pandas](https://pandas.pydata.org/) | [scikit-learn](https://scikit-learn.org/stable/) | [matplotlib](https://matplotlib.org/) |
 
 ---
 
@@ -20,13 +20,13 @@ pip install pandas scikit-learn matplotlib
 
 ## Notebook links
 
-[Book1](https://github.com/10adnan75/Fake-news-detection/blob/main/comparing_fake_news_classifiers.ipynb)
+[Comparing fake news classifiers](https://github.com/10adnan75/Fake-news-detection/blob/main/comparing_fake_news_classifiers.ipynb)
 
-[Book2](https://github.com/10adnan75/Fake-news-detection/blob/main/attempting_to_detect_fake_news.ipynb)
+[Attempting to detect fake news](https://github.com/10adnan75/Fake-news-detection/blob/main/attempting_to_detect_fake_news.ipynb)
 
 ---
 
-## Screenshots
+## Snapshots 
 
 ![image](https://user-images.githubusercontent.com/52044177/124715617-d0cd6000-df20-11eb-9bad-8cbdac5da673.png)
 
