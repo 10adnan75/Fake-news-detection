@@ -42,4 +42,4 @@ pip install pandas scikit-learn matplotlib
 
 ## Author
 
-© Adnan M Shaikh <10adnan75@gmail.com>
+© 2021 Adnan M Shaikh <10adnan75@gmail.com> 
