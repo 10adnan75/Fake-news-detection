@@ -95,11 +95,11 @@ All of the classifiers for predicting the detection of bogus news have been buil
 
 The learning curves for our candidate models are shown here.
 
-**- Logistic Regression Classifier:**
+- [x] **_Logistic Regression Classifier:_**
 
 <p align="center"><img width="550" height="450" src="https://github.com/nishitpatel01/Fake_News_Detection/blob/master/images/LR_LCurve.PNG"></p>
 
-**- Random Forest Classifier:**
+- [x] **_Random Forest Classifier:_**
 
 <p align="center"><img width="550" height="450" src="https://github.com/nishitpatel01/Fake_News_Detection/blob/master/images/RF_LCurve.png"></p>
 
